@@ -1,0 +1,7 @@
+ny_taxi_postgres_data
+
+.ipynb_checkpoints
+yellow_tripdata_2021-01.csv
+taxi_zone_lookup.csv
+output.csv
+output.csv.gz
