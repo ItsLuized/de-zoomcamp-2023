@@ -22,3 +22,8 @@ variable "BQ_DATASET" {
   type        = string
   default     = "trips_data_all"
 }
+
+variable "credentials" {
+  description = "Google Credentials"
+  default     = "./fabled-rookery-353221-357cd43d3782.json"
+}
