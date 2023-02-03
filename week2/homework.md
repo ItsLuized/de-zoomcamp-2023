@@ -83,6 +83,7 @@ How many rows were processed by the script?
 prefect deployment build flows/homework/hw4.py:etl_web_to_gcs --name github-etl-web-to-gcs -sb github/github-storage-hw4 -a
 ```
 
+rows: 88605
 
 ## Question 5. Email or Slack notifications
 
