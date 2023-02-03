@@ -3,7 +3,7 @@
 ###
 name: github-etl-web-to-gcs
 description: The main ETL function
-version: 253ffd8ab9c874e990fef76b3ebdfa54
+version: ac32ff5dcb36bea3dd70d61ee9b270d0
 # The work queue that will handle this deployment's runs
 work_queue_name: default
 tags: []
@@ -39,7 +39,7 @@ storage:
   block_type_slug: github
   _block_type_slug: github
 path: ''
-entrypoint: flows/homework/hw4.py:etl_web_to_gcs
+entrypoint: week2/flows/homework/hw4.py:etl_web_to_gcs
 parameter_openapi_schema:
   title: Parameters
   type: object
