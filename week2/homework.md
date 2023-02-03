@@ -115,6 +115,7 @@ How many rows were processed by the script?
 
 ### Answer
 
+rows: 514_392
 
 ## Question 6. Secrets
 
@@ -127,3 +128,5 @@ Prefect Secret blocks provide secure, encrypted storage in the database and obfu
 
 
 ### Answer
+
+8
