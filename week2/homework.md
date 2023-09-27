@@ -16,7 +16,7 @@ How many rows does that dataset have?
 
 ### Answer
 
-Number of rows: 447770
+Number of rows: 447,770
 
 ## Question 2. Scheduling with Cron
 
@@ -83,7 +83,7 @@ How many rows were processed by the script?
 prefect deployment build flows/homework/hw4.py:etl_web_to_gcs --name github-etl-web-to-gcs -sb github/github-storage-hw4 -a
 ```
 
-rows: 88605
+rows: 88,605
 
 ## Question 5. Email or Slack notifications
 
@@ -115,7 +115,7 @@ How many rows were processed by the script?
 
 ### Answer
 
-rows: 514_392
+rows: 514,392
 
 ## Question 6. Secrets
 
